@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d7c21ea5451328458c140b8dad3481b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerNew: {instanceID: 0}
+  - tileManager: {instanceID: 0}
+  - playerSpawn: {fileID: 5998159966942982682, guid: f374043b3048a6d4d921513275a3833e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
